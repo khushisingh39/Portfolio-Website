@@ -7,7 +7,7 @@ Welcome to my portfolio repository! This is the codebase for my personal website
 - [Technologies Used](#technologies-used)
 
 ## Introduction
-I'm Khushi Singh, a sophomore pursuing a Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence at Banasthali Vidyapith. This portfolio website serves as a digital representation of my journey, skills, and achievements.
+I'm Khushi Singh, a pre-final year student pursuing a Bachelor of Technology in Computer Science with specialization in Artificial Intelligence at Banasthali Vidyapith. This portfolio website serves as a digital representation of my journey, skills, and achievements.
 
 ## Features
 - **About Me:** Learn more about my background, education, and philosophy.
@@ -19,3 +19,4 @@ I'm Khushi Singh, a sophomore pursuing a Bachelor of Technology in Computer Scie
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
